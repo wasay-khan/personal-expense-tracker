@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local expense data (personal, not part of the code)
+expenses.json
+data/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

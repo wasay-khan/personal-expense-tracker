@@ -1,0 +1,6 @@
+# No runtime dependencies.
+# This project uses only the Python standard library (argparse, json,
+# dataclasses, datetime, pathlib), so there is nothing to install.
+#
+# Tests use the standard-library `unittest` framework as well:
+#   python -m unittest discover -s tests -v
